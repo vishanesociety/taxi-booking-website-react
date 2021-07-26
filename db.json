@@ -1,0 +1,83 @@
+{
+    "consumers": [{
+            "nameUser": "kshitij singh",
+            "phone": "9631349717",
+            "email": "kenway.ac1721@gmail.com",
+            "password": "kkkkkk",
+            "type": "consumer",
+            "id": 3
+        },
+        {
+            "nameUser": "kshitij singh",
+            "id": "9631349717",
+            "email": "kshitijsingh10762@outlook.com",
+            "password": "dsdsd",
+            "type": "consumer"
+        },
+        {
+            "nameUser": "kshitij singh",
+            "id": "9631386429",
+            "email": "kshitijsingh10762@gmail.com",
+            "password": "sdsdsdsdsdsd",
+            "type": "consumer"
+        },
+        {
+            "nameUser": "parth murarka",
+            "id": "99999999",
+            "email": "parthmurarka@gmail.com",
+            "password": "99999999",
+            "type": "consumer"
+        },
+        {
+            "nameUser": "vishal",
+            "id": "987654321",
+            "email": "almighty.apk@gmail.com",
+            "password": "987654321",
+            "type": "consumer"
+        }
+    ],
+    "drivers": [{
+            "nameUser": "kshitij singh",
+            "phone": "9631349717",
+            "email": "kenway.ac1721@gmail.com",
+            "password": "ggggg",
+            "type": "driver",
+            "id": 2
+        },
+        {
+            "nameUser": "alpine",
+            "id": "13456",
+            "email": "kshitijsingh10762@gmail.com",
+            "password": "123456",
+            "type": "driver"
+        },
+        {
+            "nameUser": "pratekk",
+            "id": "123456789",
+            "email": "almighty.apk@gmail.com",
+            "password": "123456789",
+            "type": "driver"
+        }
+    ],
+    "bookings": [{
+            "id": "9631349717",
+            "origin": "krishnapuri",
+            "destination": "divyayan",
+            "price": "56",
+            "pickUp": "",
+            "status": "confirmed",
+            "driver": "13456",
+            "time": "22:18"
+        },
+        {
+            "id": "99999999",
+            "origin": "ramgarh",
+            "destination": "divyayan",
+            "price": "100",
+            "pickUp": "",
+            "status": "confirmed",
+            "driver": "13456",
+            "time": "04:25"
+        }
+    ]
+}
